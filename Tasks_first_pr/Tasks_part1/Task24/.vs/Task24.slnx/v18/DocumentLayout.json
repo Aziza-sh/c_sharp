@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shuva\\source\\repos\\Task24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F8A9613-2521-4B27-973A-834FE1356FA4}|Task24\\Task24.csproj|c:\\users\\shuva\\source\\repos\\task24\\task24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F8A9613-2521-4B27-973A-834FE1356FA4}|Task24\\Task24.csproj|solutionrelative:task24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shuva\\source\\repos\\Task24\\Task24\\Program.cs",
+              "RelativeDocumentMoniker": "Task24\\Program.cs",
+              "ToolTip": "C:\\Users\\shuva\\source\\repos\\Task24\\Task24\\Program.cs",
+              "RelativeToolTip": "Task24\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T05:33:38.339Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\shuva\source\repos\Task8\Task8\bin\Debug\net10.0\Task8.exe
+C:\Users\shuva\source\repos\Task8\Task8\bin\Debug\net10.0\Task8.deps.json
+C:\Users\shuva\source\repos\Task8\Task8\bin\Debug\net10.0\Task8.runtimeconfig.json
+C:\Users\shuva\source\repos\Task8\Task8\bin\Debug\net10.0\Task8.dll
+C:\Users\shuva\source\repos\Task8\Task8\bin\Debug\net10.0\Task8.pdb
+C:\Users\shuva\source\repos\Task8\Task8\obj\Debug\net10.0\Task8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shuva\source\repos\Task8\Task8\obj\Debug\net10.0\Task8.AssemblyInfoInputs.cache
+C:\Users\shuva\source\repos\Task8\Task8\obj\Debug\net10.0\Task8.AssemblyInfo.cs
+C:\Users\shuva\source\repos\Task8\Task8\obj\Debug\net10.0\Task8.csproj.CoreCompileInputs.cache
+C:\Users\shuva\source\repos\Task8\Task8\obj\Debug\net10.0\Task8.dll
+C:\Users\shuva\source\repos\Task8\Task8\obj\Debug\net10.0\refint\Task8.dll
+C:\Users\shuva\source\repos\Task8\Task8\obj\Debug\net10.0\Task8.pdb
+C:\Users\shuva\source\repos\Task8\Task8\obj\Debug\net10.0\Task8.genruntimeconfig.cache
+C:\Users\shuva\source\repos\Task8\Task8\obj\Debug\net10.0\ref\Task8.dll
+C:\Users\shuva\source\repos\Task8\Task8\obj\Debug\net10.0\Task8.csproj.Up2Date

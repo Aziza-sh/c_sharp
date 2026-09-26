@@ -1,0 +1,15 @@
+C:\Users\shuva\source\repos\Task22\Task22\bin\Debug\net10.0\Task22.exe
+C:\Users\shuva\source\repos\Task22\Task22\bin\Debug\net10.0\Task22.deps.json
+C:\Users\shuva\source\repos\Task22\Task22\bin\Debug\net10.0\Task22.runtimeconfig.json
+C:\Users\shuva\source\repos\Task22\Task22\bin\Debug\net10.0\Task22.dll
+C:\Users\shuva\source\repos\Task22\Task22\bin\Debug\net10.0\Task22.pdb
+C:\Users\shuva\source\repos\Task22\Task22\obj\Debug\net10.0\Task22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shuva\source\repos\Task22\Task22\obj\Debug\net10.0\Task22.AssemblyInfoInputs.cache
+C:\Users\shuva\source\repos\Task22\Task22\obj\Debug\net10.0\Task22.AssemblyInfo.cs
+C:\Users\shuva\source\repos\Task22\Task22\obj\Debug\net10.0\Task22.csproj.CoreCompileInputs.cache
+C:\Users\shuva\source\repos\Task22\Task22\obj\Debug\net10.0\Task22.dll
+C:\Users\shuva\source\repos\Task22\Task22\obj\Debug\net10.0\refint\Task22.dll
+C:\Users\shuva\source\repos\Task22\Task22\obj\Debug\net10.0\Task22.pdb
+C:\Users\shuva\source\repos\Task22\Task22\obj\Debug\net10.0\Task22.genruntimeconfig.cache
+C:\Users\shuva\source\repos\Task22\Task22\obj\Debug\net10.0\ref\Task22.dll
+C:\Users\shuva\source\repos\Task22\Task22\obj\Debug\net10.0\Task22.csproj.Up2Date

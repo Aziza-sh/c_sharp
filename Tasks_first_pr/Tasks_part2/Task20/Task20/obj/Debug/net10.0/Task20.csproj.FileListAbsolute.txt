@@ -1,0 +1,15 @@
+C:\Users\shuva\source\repos\Task20\Task20\bin\Debug\net10.0\Task20.exe
+C:\Users\shuva\source\repos\Task20\Task20\bin\Debug\net10.0\Task20.deps.json
+C:\Users\shuva\source\repos\Task20\Task20\bin\Debug\net10.0\Task20.runtimeconfig.json
+C:\Users\shuva\source\repos\Task20\Task20\bin\Debug\net10.0\Task20.dll
+C:\Users\shuva\source\repos\Task20\Task20\bin\Debug\net10.0\Task20.pdb
+C:\Users\shuva\source\repos\Task20\Task20\obj\Debug\net10.0\Task20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shuva\source\repos\Task20\Task20\obj\Debug\net10.0\Task20.AssemblyInfoInputs.cache
+C:\Users\shuva\source\repos\Task20\Task20\obj\Debug\net10.0\Task20.AssemblyInfo.cs
+C:\Users\shuva\source\repos\Task20\Task20\obj\Debug\net10.0\Task20.csproj.CoreCompileInputs.cache
+C:\Users\shuva\source\repos\Task20\Task20\obj\Debug\net10.0\Task20.dll
+C:\Users\shuva\source\repos\Task20\Task20\obj\Debug\net10.0\refint\Task20.dll
+C:\Users\shuva\source\repos\Task20\Task20\obj\Debug\net10.0\Task20.pdb
+C:\Users\shuva\source\repos\Task20\Task20\obj\Debug\net10.0\Task20.genruntimeconfig.cache
+C:\Users\shuva\source\repos\Task20\Task20\obj\Debug\net10.0\ref\Task20.dll
+C:\Users\shuva\source\repos\Task20\Task20\obj\Debug\net10.0\Task20.csproj.Up2Date

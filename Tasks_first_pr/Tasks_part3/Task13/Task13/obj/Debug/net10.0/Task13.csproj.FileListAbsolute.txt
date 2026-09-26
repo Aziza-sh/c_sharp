@@ -1,0 +1,15 @@
+C:\Users\shuva\source\repos\Task13\Task13\bin\Debug\net10.0\Task13.exe
+C:\Users\shuva\source\repos\Task13\Task13\bin\Debug\net10.0\Task13.deps.json
+C:\Users\shuva\source\repos\Task13\Task13\bin\Debug\net10.0\Task13.runtimeconfig.json
+C:\Users\shuva\source\repos\Task13\Task13\bin\Debug\net10.0\Task13.dll
+C:\Users\shuva\source\repos\Task13\Task13\bin\Debug\net10.0\Task13.pdb
+C:\Users\shuva\source\repos\Task13\Task13\obj\Debug\net10.0\Task13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shuva\source\repos\Task13\Task13\obj\Debug\net10.0\Task13.AssemblyInfoInputs.cache
+C:\Users\shuva\source\repos\Task13\Task13\obj\Debug\net10.0\Task13.AssemblyInfo.cs
+C:\Users\shuva\source\repos\Task13\Task13\obj\Debug\net10.0\Task13.csproj.CoreCompileInputs.cache
+C:\Users\shuva\source\repos\Task13\Task13\obj\Debug\net10.0\Task13.dll
+C:\Users\shuva\source\repos\Task13\Task13\obj\Debug\net10.0\refint\Task13.dll
+C:\Users\shuva\source\repos\Task13\Task13\obj\Debug\net10.0\Task13.pdb
+C:\Users\shuva\source\repos\Task13\Task13\obj\Debug\net10.0\Task13.genruntimeconfig.cache
+C:\Users\shuva\source\repos\Task13\Task13\obj\Debug\net10.0\ref\Task13.dll
+C:\Users\shuva\source\repos\Task13\Task13\obj\Debug\net10.0\Task13.csproj.Up2Date

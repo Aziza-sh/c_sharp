@@ -1,0 +1,15 @@
+C:\Users\shuva\source\repos\Task17\Task17\bin\Debug\net10.0\Task17.exe
+C:\Users\shuva\source\repos\Task17\Task17\bin\Debug\net10.0\Task17.deps.json
+C:\Users\shuva\source\repos\Task17\Task17\bin\Debug\net10.0\Task17.runtimeconfig.json
+C:\Users\shuva\source\repos\Task17\Task17\bin\Debug\net10.0\Task17.dll
+C:\Users\shuva\source\repos\Task17\Task17\bin\Debug\net10.0\Task17.pdb
+C:\Users\shuva\source\repos\Task17\Task17\obj\Debug\net10.0\Task17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shuva\source\repos\Task17\Task17\obj\Debug\net10.0\Task17.AssemblyInfoInputs.cache
+C:\Users\shuva\source\repos\Task17\Task17\obj\Debug\net10.0\Task17.AssemblyInfo.cs
+C:\Users\shuva\source\repos\Task17\Task17\obj\Debug\net10.0\Task17.csproj.CoreCompileInputs.cache
+C:\Users\shuva\source\repos\Task17\Task17\obj\Debug\net10.0\Task17.dll
+C:\Users\shuva\source\repos\Task17\Task17\obj\Debug\net10.0\refint\Task17.dll
+C:\Users\shuva\source\repos\Task17\Task17\obj\Debug\net10.0\Task17.pdb
+C:\Users\shuva\source\repos\Task17\Task17\obj\Debug\net10.0\Task17.genruntimeconfig.cache
+C:\Users\shuva\source\repos\Task17\Task17\obj\Debug\net10.0\ref\Task17.dll
+C:\Users\shuva\source\repos\Task17\Task17\obj\Debug\net10.0\Task17.csproj.Up2Date

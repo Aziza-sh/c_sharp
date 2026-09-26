@@ -1,0 +1,15 @@
+C:\Users\shuva\source\repos\Task33\Task33\bin\Debug\net10.0\Task33.exe
+C:\Users\shuva\source\repos\Task33\Task33\bin\Debug\net10.0\Task33.deps.json
+C:\Users\shuva\source\repos\Task33\Task33\bin\Debug\net10.0\Task33.runtimeconfig.json
+C:\Users\shuva\source\repos\Task33\Task33\bin\Debug\net10.0\Task33.dll
+C:\Users\shuva\source\repos\Task33\Task33\bin\Debug\net10.0\Task33.pdb
+C:\Users\shuva\source\repos\Task33\Task33\obj\Debug\net10.0\Task33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shuva\source\repos\Task33\Task33\obj\Debug\net10.0\Task33.AssemblyInfoInputs.cache
+C:\Users\shuva\source\repos\Task33\Task33\obj\Debug\net10.0\Task33.AssemblyInfo.cs
+C:\Users\shuva\source\repos\Task33\Task33\obj\Debug\net10.0\Task33.csproj.CoreCompileInputs.cache
+C:\Users\shuva\source\repos\Task33\Task33\obj\Debug\net10.0\Task33.dll
+C:\Users\shuva\source\repos\Task33\Task33\obj\Debug\net10.0\refint\Task33.dll
+C:\Users\shuva\source\repos\Task33\Task33\obj\Debug\net10.0\Task33.pdb
+C:\Users\shuva\source\repos\Task33\Task33\obj\Debug\net10.0\Task33.genruntimeconfig.cache
+C:\Users\shuva\source\repos\Task33\Task33\obj\Debug\net10.0\ref\Task33.dll
+C:\Users\shuva\source\repos\Task33\Task33\obj\Debug\net10.0\Task33.csproj.Up2Date

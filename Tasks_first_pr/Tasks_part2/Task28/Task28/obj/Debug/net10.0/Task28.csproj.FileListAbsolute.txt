@@ -1,0 +1,15 @@
+C:\Users\shuva\source\repos\Task28\Task28\bin\Debug\net10.0\Task28.exe
+C:\Users\shuva\source\repos\Task28\Task28\bin\Debug\net10.0\Task28.deps.json
+C:\Users\shuva\source\repos\Task28\Task28\bin\Debug\net10.0\Task28.runtimeconfig.json
+C:\Users\shuva\source\repos\Task28\Task28\bin\Debug\net10.0\Task28.dll
+C:\Users\shuva\source\repos\Task28\Task28\bin\Debug\net10.0\Task28.pdb
+C:\Users\shuva\source\repos\Task28\Task28\obj\Debug\net10.0\Task28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shuva\source\repos\Task28\Task28\obj\Debug\net10.0\Task28.AssemblyInfoInputs.cache
+C:\Users\shuva\source\repos\Task28\Task28\obj\Debug\net10.0\Task28.AssemblyInfo.cs
+C:\Users\shuva\source\repos\Task28\Task28\obj\Debug\net10.0\Task28.csproj.CoreCompileInputs.cache
+C:\Users\shuva\source\repos\Task28\Task28\obj\Debug\net10.0\Task28.dll
+C:\Users\shuva\source\repos\Task28\Task28\obj\Debug\net10.0\refint\Task28.dll
+C:\Users\shuva\source\repos\Task28\Task28\obj\Debug\net10.0\Task28.pdb
+C:\Users\shuva\source\repos\Task28\Task28\obj\Debug\net10.0\Task28.genruntimeconfig.cache
+C:\Users\shuva\source\repos\Task28\Task28\obj\Debug\net10.0\ref\Task28.dll
+C:\Users\shuva\source\repos\Task28\Task28\obj\Debug\net10.0\Task28.csproj.Up2Date

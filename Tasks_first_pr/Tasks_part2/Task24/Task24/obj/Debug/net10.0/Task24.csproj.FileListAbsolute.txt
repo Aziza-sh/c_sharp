@@ -1,0 +1,15 @@
+C:\Users\shuva\source\repos\Task24\Task24\bin\Debug\net10.0\Task24.exe
+C:\Users\shuva\source\repos\Task24\Task24\bin\Debug\net10.0\Task24.deps.json
+C:\Users\shuva\source\repos\Task24\Task24\bin\Debug\net10.0\Task24.runtimeconfig.json
+C:\Users\shuva\source\repos\Task24\Task24\bin\Debug\net10.0\Task24.dll
+C:\Users\shuva\source\repos\Task24\Task24\bin\Debug\net10.0\Task24.pdb
+C:\Users\shuva\source\repos\Task24\Task24\obj\Debug\net10.0\Task24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shuva\source\repos\Task24\Task24\obj\Debug\net10.0\Task24.AssemblyInfoInputs.cache
+C:\Users\shuva\source\repos\Task24\Task24\obj\Debug\net10.0\Task24.AssemblyInfo.cs
+C:\Users\shuva\source\repos\Task24\Task24\obj\Debug\net10.0\Task24.csproj.CoreCompileInputs.cache
+C:\Users\shuva\source\repos\Task24\Task24\obj\Debug\net10.0\Task24.dll
+C:\Users\shuva\source\repos\Task24\Task24\obj\Debug\net10.0\refint\Task24.dll
+C:\Users\shuva\source\repos\Task24\Task24\obj\Debug\net10.0\Task24.pdb
+C:\Users\shuva\source\repos\Task24\Task24\obj\Debug\net10.0\Task24.genruntimeconfig.cache
+C:\Users\shuva\source\repos\Task24\Task24\obj\Debug\net10.0\ref\Task24.dll
+C:\Users\shuva\source\repos\Task24\Task24\obj\Debug\net10.0\Task24.csproj.Up2Date

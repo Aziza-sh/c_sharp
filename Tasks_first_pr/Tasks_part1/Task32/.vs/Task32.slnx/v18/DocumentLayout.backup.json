@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shuva\\source\\repos\\Task32\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98CCB475-3533-47C6-A82B-64596D8BB3DE}|Task32\\Task32.csproj|c:\\users\\shuva\\source\\repos\\task32\\task32\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CCB475-3533-47C6-A82B-64596D8BB3DE}|Task32\\Task32.csproj|solutionrelative:task32\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shuva\\source\\repos\\Task32\\Task32\\Program.cs",
+              "RelativeDocumentMoniker": "Task32\\Program.cs",
+              "ToolTip": "C:\\Users\\shuva\\source\\repos\\Task32\\Task32\\Program.cs*",
+              "RelativeToolTip": "Task32\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T05:37:24.734Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

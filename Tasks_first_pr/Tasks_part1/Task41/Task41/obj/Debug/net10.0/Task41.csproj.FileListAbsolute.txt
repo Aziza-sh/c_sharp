@@ -1,0 +1,15 @@
+C:\Users\shuva\source\repos\Task41\Task41\bin\Debug\net10.0\Task41.exe
+C:\Users\shuva\source\repos\Task41\Task41\bin\Debug\net10.0\Task41.deps.json
+C:\Users\shuva\source\repos\Task41\Task41\bin\Debug\net10.0\Task41.runtimeconfig.json
+C:\Users\shuva\source\repos\Task41\Task41\bin\Debug\net10.0\Task41.dll
+C:\Users\shuva\source\repos\Task41\Task41\bin\Debug\net10.0\Task41.pdb
+C:\Users\shuva\source\repos\Task41\Task41\obj\Debug\net10.0\Task41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shuva\source\repos\Task41\Task41\obj\Debug\net10.0\Task41.AssemblyInfoInputs.cache
+C:\Users\shuva\source\repos\Task41\Task41\obj\Debug\net10.0\Task41.AssemblyInfo.cs
+C:\Users\shuva\source\repos\Task41\Task41\obj\Debug\net10.0\Task41.csproj.CoreCompileInputs.cache
+C:\Users\shuva\source\repos\Task41\Task41\obj\Debug\net10.0\Task41.dll
+C:\Users\shuva\source\repos\Task41\Task41\obj\Debug\net10.0\refint\Task41.dll
+C:\Users\shuva\source\repos\Task41\Task41\obj\Debug\net10.0\Task41.pdb
+C:\Users\shuva\source\repos\Task41\Task41\obj\Debug\net10.0\Task41.genruntimeconfig.cache
+C:\Users\shuva\source\repos\Task41\Task41\obj\Debug\net10.0\ref\Task41.dll
+C:\Users\shuva\source\repos\Task41\Task41\obj\Debug\net10.0\Task41.csproj.Up2Date

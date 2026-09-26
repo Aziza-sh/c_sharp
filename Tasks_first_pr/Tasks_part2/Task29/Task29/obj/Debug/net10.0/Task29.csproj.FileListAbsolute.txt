@@ -1,0 +1,15 @@
+C:\Users\shuva\source\repos\Task29\Task29\bin\Debug\net10.0\Task29.exe
+C:\Users\shuva\source\repos\Task29\Task29\bin\Debug\net10.0\Task29.deps.json
+C:\Users\shuva\source\repos\Task29\Task29\bin\Debug\net10.0\Task29.runtimeconfig.json
+C:\Users\shuva\source\repos\Task29\Task29\bin\Debug\net10.0\Task29.dll
+C:\Users\shuva\source\repos\Task29\Task29\bin\Debug\net10.0\Task29.pdb
+C:\Users\shuva\source\repos\Task29\Task29\obj\Debug\net10.0\Task29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shuva\source\repos\Task29\Task29\obj\Debug\net10.0\Task29.AssemblyInfoInputs.cache
+C:\Users\shuva\source\repos\Task29\Task29\obj\Debug\net10.0\Task29.AssemblyInfo.cs
+C:\Users\shuva\source\repos\Task29\Task29\obj\Debug\net10.0\Task29.csproj.CoreCompileInputs.cache
+C:\Users\shuva\source\repos\Task29\Task29\obj\Debug\net10.0\Task29.dll
+C:\Users\shuva\source\repos\Task29\Task29\obj\Debug\net10.0\refint\Task29.dll
+C:\Users\shuva\source\repos\Task29\Task29\obj\Debug\net10.0\Task29.pdb
+C:\Users\shuva\source\repos\Task29\Task29\obj\Debug\net10.0\Task29.genruntimeconfig.cache
+C:\Users\shuva\source\repos\Task29\Task29\obj\Debug\net10.0\ref\Task29.dll
+C:\Users\shuva\source\repos\Task29\Task29\obj\Debug\net10.0\Task29.csproj.Up2Date

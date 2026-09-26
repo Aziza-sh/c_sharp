@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shuva\\source\\repos\\Task11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C32DBB-A4AA-468F-B183-2C65071B1502}|Task11\\Task11.csproj|c:\\users\\shuva\\source\\repos\\task11\\task11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C32DBB-A4AA-468F-B183-2C65071B1502}|Task11\\Task11.csproj|solutionrelative:task11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shuva\\source\\repos\\Task11\\Task11\\Program.cs",
+              "RelativeDocumentMoniker": "Task11\\Program.cs",
+              "ToolTip": "C:\\Users\\shuva\\source\\repos\\Task11\\Task11\\Program.cs",
+              "RelativeToolTip": "Task11\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T05:24:19.872Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
